@@ -1,6 +1,6 @@
 # TextNormalization
 The files are organized as follows:
-- glove.* : Embedding data (from SharedTask 2015)
+- glove.*.txt : Embeddings for Twitter and canonical data (from SharedTask 2015)
 - kneser_ney_n.p: Sequence counts for n-gram models
 - lookup_ed.p: Lookup dictionary from unnormalized to normalized forms for embedding dimension e
 - test_data_ne.json: Results for test_data.json for n-gram of order n and embedding size e
