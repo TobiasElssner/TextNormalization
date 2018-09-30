@@ -7,7 +7,7 @@ The files are organized as follows:
 - test_truth.json: Gold standard annotations for the normalizations (from SharedTask2015)
 - spoken.txt: Background corpus for the n-gram statistics
 - word_list.p: List of all tokens occurring in spoken.txt
-- ExtractNgrams.py: Extraxts ngrams from the background corpus\\
+- ExtractNgrams.py: Extraxts ngrams from the background corpus => 
   Sequence counts for the kneser-ney-smoothing can be obtained there
 - Lookup.py: Creates the dictionary from unnormalized to normalized forms
 - Normalization.py: Normalizes data in json-format
