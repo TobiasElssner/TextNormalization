@@ -1,7 +1,6 @@
 # TextNormalization
 The files are organized as follows:
-- glove.*.txt : Embeddings for Twitter and canonical data (from SharedTask 2015) can be found here: 
-                https://noisy-text.github.io/norm-shared-task
+- Embeddings for Twitter and canonical data (from SharedTask 2015) can be found here: https://noisy-text.github.io/norm-shared-task
 - lookup_ed.p: Lookup dictionary from unnormalized to normalized forms for embedding dimension e
 - test_data_ne.json: Results for test_data.json for n-gram of order n and embedding size e
 - test_truth.json: Gold standard annotations for the normalizations (from SharedTask2015)
